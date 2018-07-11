@@ -1,0 +1,7 @@
+D:\Docs\Visual Studio Projects\FrameMakerTools\bin\Debug\FrameMakerTools.exe
+D:\Docs\Visual Studio Projects\FrameMakerTools\bin\Debug\FrameMakerTools.pdb
+D:\Docs\Visual Studio Projects\FrameMakerTools\bin\Debug\Varan.FrameMaker.dll
+D:\Docs\Visual Studio Projects\FrameMakerTools\bin\Debug\Varan.FrameMaker.pdb
+D:\Docs\Visual Studio Projects\FrameMakerTools\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\Visual Studio Projects\FrameMakerTools\obj\Debug\FrameMakerTools.exe
+D:\Docs\Visual Studio Projects\FrameMakerTools\obj\Debug\FrameMakerTools.pdb

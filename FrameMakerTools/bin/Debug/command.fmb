@@ -1,0 +1,234 @@
+OpenTextFile -a c:\mif\Acupuncture.mif
+SaveAs -d c:\mif\Acupuncture.mif c:\mif\Acupuncture.fm
+Close c:\mif\Acupuncture.fm
+OpenTextFile -a c:\mif\Catalog_of_Acupoints.mif
+SaveAs -d c:\mif\Catalog_of_Acupoints.mif c:\mif\Catalog_of_Acupoints.fm
+Close c:\mif\Catalog_of_Acupoints.fm
+OpenTextFile -a c:\mif\Catalog_of_Videos.mif
+SaveAs -d c:\mif\Catalog_of_Videos.mif c:\mif\Catalog_of_Videos.fm
+Close c:\mif\Catalog_of_Videos.fm
+OpenTextFile -a c:\mif\DimMak.mif
+SaveAs -d c:\mif\DimMak.mif c:\mif\DimMak.fm
+Close c:\mif\DimMak.fm
+OpenTextFile -a c:\mif\Drills.mif
+SaveAs -d c:\mif\Drills.mif c:\mif\Drills.fm
+Close c:\mif\Drills.fm
+OpenTextFile -a c:\mif\Drills_KumiteAndMatch.mif
+SaveAs -d c:\mif\Drills_KumiteAndMatch.mif c:\mif\Drills_KumiteAndMatch.fm
+Close c:\mif\Drills_KumiteAndMatch.fm
+OpenTextFile -a c:\mif\EssaysAndPoetry.mif
+SaveAs -d c:\mif\EssaysAndPoetry.mif c:\mif\EssaysAndPoetry.fm
+Close c:\mif\EssaysAndPoetry.fm
+OpenTextFile -a c:\mif\Exercises.mif
+SaveAs -d c:\mif\Exercises.mif c:\mif\Exercises.fm
+Close c:\mif\Exercises.fm
+OpenTextFile -a c:\mif\Forms_Bird.mif
+SaveAs -d c:\mif\Forms_Bird.mif c:\mif\Forms_Bird.fm
+Close c:\mif\Forms_Bird.fm
+OpenTextFile -a c:\mif\Forms_Cat.mif
+SaveAs -d c:\mif\Forms_Cat.mif c:\mif\Forms_Cat.fm
+Close c:\mif\Forms_Cat.fm
+OpenTextFile -a c:\mif\Forms_ChongU.mif
+SaveAs -d c:\mif\Forms_ChongU.mif c:\mif\Forms_ChongU.fm
+Close c:\mif\Forms_ChongU.fm
+OpenTextFile -a c:\mif\Forms_Combo_Animal.mif
+SaveAs -d c:\mif\Forms_Combo_Animal.mif c:\mif\Forms_Combo_Animal.fm
+Close c:\mif\Forms_Combo_Animal.fm
+OpenTextFile -a c:\mif\Forms_Dragon.mif
+SaveAs -d c:\mif\Forms_Dragon.mif c:\mif\Forms_Dragon.fm
+Close c:\mif\Forms_Dragon.fm
+OpenTextFile -a c:\mif\Forms_EiLongKuen.mif
+SaveAs -d c:\mif\Forms_EiLongKuen.mif c:\mif\Forms_EiLongKuen.fm
+Close c:\mif\Forms_EiLongKuen.fm
+OpenTextFile -a c:\mif\Forms_Filipino.mif
+SaveAs -d c:\mif\Forms_Filipino.mif c:\mif\Forms_Filipino.fm
+Close c:\mif\Forms_Filipino.fm
+OpenTextFile -a c:\mif\Forms_FiveBasicChinese.mif
+SaveAs -d c:\mif\Forms_FiveBasicChinese.mif c:\mif\Forms_FiveBasicChinese.fm
+Close c:\mif\Forms_FiveBasicChinese.fm
+OpenTextFile -a c:\mif\Forms_FlyingDragon.mif
+SaveAs -d c:\mif\Forms_FlyingDragon.mif c:\mif\Forms_FlyingDragon.fm
+Close c:\mif\Forms_FlyingDragon.fm
+OpenTextFile -a c:\mif\Forms_Iaijutsu.mif
+SaveAs -d c:\mif\Forms_Iaijutsu.mif c:\mif\Forms_Iaijutsu.fm
+Close c:\mif\Forms_Iaijutsu.fm
+OpenTextFile -a c:\mif\Forms_Insect.mif
+SaveAs -d c:\mif\Forms_Insect.mif c:\mif\Forms_Insect.fm
+Close c:\mif\Forms_Insect.fm
+OpenTextFile -a c:\mif\Forms_Minor.mif
+SaveAs -d c:\mif\Forms_Minor.mif c:\mif\Forms_Minor.fm
+Close c:\mif\Forms_Minor.fm
+OpenTextFile -a c:\mif\Forms_Miscellaneous.mif
+SaveAs -d c:\mif\Forms_Miscellaneous.mif c:\mif\Forms_Miscellaneous.fm
+Close c:\mif\Forms_Miscellaneous.fm
+OpenTextFile -a c:\mif\Forms_Nidan.mif
+SaveAs -d c:\mif\Forms_Nidan.mif c:\mif\Forms_Nidan.fm
+Close c:\mif\Forms_Nidan.fm
+OpenTextFile -a c:\mif\Forms_Okinawan.mif
+SaveAs -d c:\mif\Forms_Okinawan.mif c:\mif\Forms_Okinawan.fm
+Close c:\mif\Forms_Okinawan.fm
+OpenTextFile -a c:\mif\Forms_PersonalBelt.mif
+SaveAs -d c:\mif\Forms_PersonalBelt.mif c:\mif\Forms_PersonalBelt.fm
+Close c:\mif\Forms_PersonalBelt.fm
+OpenTextFile -a c:\mif\Forms_Serpent.mif
+SaveAs -d c:\mif\Forms_Serpent.mif c:\mif\Forms_Serpent.fm
+Close c:\mif\Forms_Serpent.fm
+OpenTextFile -a c:\mif\Forms_Shodan.mif
+SaveAs -d c:\mif\Forms_Shodan.mif c:\mif\Forms_Shodan.fm
+Close c:\mif\Forms_Shodan.fm
+OpenTextFile -a c:\mif\Forms_SilverSwords.mif
+SaveAs -d c:\mif\Forms_SilverSwords.mif c:\mif\Forms_SilverSwords.fm
+Close c:\mif\Forms_SilverSwords.fm
+OpenTextFile -a c:\mif\Forms_Taijiquan.mif
+SaveAs -d c:\mif\Forms_Taijiquan.mif c:\mif\Forms_Taijiquan.fm
+Close c:\mif\Forms_Taijiquan.fm
+OpenTextFile -a c:\mif\Forms_Two-Man.mif
+SaveAs -d c:\mif\Forms_Two-Man.mif c:\mif\Forms_Two-Man.fm
+Close c:\mif\Forms_Two-Man.fm
+OpenTextFile -a c:\mif\Forms_Variations.mif
+SaveAs -d c:\mif\Forms_Variations.mif c:\mif\Forms_Variations.fm
+Close c:\mif\Forms_Variations.fm
+OpenTextFile -a c:\mif\Forms_Weapon.mif
+SaveAs -d c:\mif\Forms_Weapon.mif c:\mif\Forms_Weapon.fm
+Close c:\mif\Forms_Weapon.fm
+OpenTextFile -a c:\mif\Forms_WuTaijiquan.mif
+SaveAs -d c:\mif\Forms_WuTaijiquan.mif c:\mif\Forms_WuTaijiquan.fm
+Close c:\mif\Forms_WuTaijiquan.fm
+OpenTextFile -a c:\mif\Foundations.mif
+SaveAs -d c:\mif\Foundations.mif c:\mif\Foundations.fm
+Close c:\mif\Foundations.fm
+OpenTextFile -a c:\mif\Hapkido.mif
+SaveAs -d c:\mif\Hapkido.mif c:\mif\Hapkido.fm
+Close c:\mif\Hapkido.fm
+OpenTextFile -a c:\mif\Herbalism.mif
+SaveAs -d c:\mif\Herbalism.mif c:\mif\Herbalism.fm
+Close c:\mif\Herbalism.fm
+OpenTextFile -a c:\mif\IDX_Acupoints.mif
+SaveAs -d c:\mif\IDX_Acupoints.mif c:\mif\IDX_Acupoints.fm
+Close c:\mif\IDX_Acupoints.fm
+OpenTextFile -a c:\mif\Index.mif
+SaveAs -d c:\mif\Index.mif c:\mif\Index.fm
+Close c:\mif\Index.fm
+OpenTextFile -a c:\mif\KumiteAndMatch.mif
+SaveAs -d c:\mif\KumiteAndMatch.mif c:\mif\KumiteAndMatch.fm
+Close c:\mif\KumiteAndMatch.fm
+OpenTextFile -a c:\mif\LOF.mif
+SaveAs -d c:\mif\LOF.mif c:\mif\LOF.fm
+Close c:\mif\LOF.fm
+OpenTextFile -a c:\mif\LOT.mif
+SaveAs -d c:\mif\LOT.mif c:\mif\LOT.fm
+Close c:\mif\LOT.fm
+OpenTextFile -a c:\mif\Massage.mif
+SaveAs -d c:\mif\Massage.mif c:\mif\Massage.fm
+Close c:\mif\Massage.fm
+OpenTextFile -a c:\mif\Meditations.mif
+SaveAs -d c:\mif\Meditations.mif c:\mif\Meditations.fm
+Close c:\mif\Meditations.fm
+OpenTextFile -a c:\mif\NotesAboutUnknown.mif
+SaveAs -d c:\mif\NotesAboutUnknown.mif c:\mif\NotesAboutUnknown.fm
+Close c:\mif\NotesAboutUnknown.fm
+OpenTextFile -a c:\mif\PersonalEssays.mif
+SaveAs -d c:\mif\PersonalEssays.mif c:\mif\PersonalEssays.fm
+Close c:\mif\PersonalEssays.fm
+OpenTextFile -a c:\mif\Qigong.mif
+SaveAs -d c:\mif\Qigong.mif c:\mif\Qigong.fm
+Close c:\mif\Qigong.fm
+OpenTextFile -a c:\mif\References.mif
+SaveAs -d c:\mif\References.mif c:\mif\References.fm
+Close c:\mif\References.fm
+OpenTextFile -a c:\mif\Shorthand.mif
+SaveAs -d c:\mif\Shorthand.mif c:\mif\Shorthand.fm
+Close c:\mif\Shorthand.fm
+OpenTextFile -a c:\mif\SpecificTreatments.mif
+SaveAs -d c:\mif\SpecificTreatments.mif c:\mif\SpecificTreatments.fm
+Close c:\mif\SpecificTreatments.fm
+OpenTextFile -a c:\mif\Stories.mif
+SaveAs -d c:\mif\Stories.mif c:\mif\Stories.fm
+Close c:\mif\Stories.fm
+OpenTextFile -a c:\mif\Techniques_Empty-Hand.mif
+SaveAs -d c:\mif\Techniques_Empty-Hand.mif c:\mif\Techniques_Empty-Hand.fm
+Close c:\mif\Techniques_Empty-Hand.fm
+OpenTextFile -a c:\mif\Techniques_Weapon.mif
+SaveAs -d c:\mif\Techniques_Weapon.mif c:\mif\Techniques_Weapon.fm
+Close c:\mif\Techniques_Weapon.fm
+OpenTextFile -a c:\mif\TitlePage.mif
+SaveAs -d c:\mif\TitlePage.mif c:\mif\TitlePage.fm
+Close c:\mif\TitlePage.fm
+OpenTextFile -a c:\mif\TOC.mif
+SaveAs -d c:\mif\TOC.mif c:\mif\TOC.fm
+Close c:\mif\TOC.fm
+OpenTextFile -a c:\mif\TOC_AcupunctureExamples.mif
+SaveAs -d c:\mif\TOC_AcupunctureExamples.mif c:\mif\TOC_AcupunctureExamples.fm
+Close c:\mif\TOC_AcupunctureExamples.fm
+OpenTextFile -a c:\mif\TOC_Applications.mif
+SaveAs -d c:\mif\TOC_Applications.mif c:\mif\TOC_Applications.fm
+Close c:\mif\TOC_Applications.fm
+OpenTextFile -a c:\mif\TOC_Defenses.mif
+SaveAs -d c:\mif\TOC_Defenses.mif c:\mif\TOC_Defenses.fm
+Close c:\mif\TOC_Defenses.fm
+OpenTextFile -a c:\mif\TOC_Drills.mif
+SaveAs -d c:\mif\TOC_Drills.mif c:\mif\TOC_Drills.fm
+Close c:\mif\TOC_Drills.fm
+OpenTextFile -a c:\mif\TOC_Exercises.mif
+SaveAs -d c:\mif\TOC_Exercises.mif c:\mif\TOC_Exercises.fm
+Close c:\mif\TOC_Exercises.fm
+OpenTextFile -a c:\mif\TOC_Forms.mif
+SaveAs -d c:\mif\TOC_Forms.mif c:\mif\TOC_Forms.fm
+Close c:\mif\TOC_Forms.fm
+OpenTextFile -a c:\mif\TOC_QigongMeditation.mif
+SaveAs -d c:\mif\TOC_QigongMeditation.mif c:\mif\TOC_QigongMeditation.fm
+Close c:\mif\TOC_QigongMeditation.fm
+OpenTextFile -a c:\mif\TOC_Techniques.mif
+SaveAs -d c:\mif\TOC_Techniques.mif c:\mif\TOC_Techniques.fm
+Close c:\mif\TOC_Techniques.fm
+OpenTextFile -a c:\mif\TrainingMethods.mif
+SaveAs -d c:\mif\TrainingMethods.mif c:\mif\TrainingMethods.fm
+Close c:\mif\TrainingMethods.fm
+OpenTextFile -a c:\mif\WarmUps_ClassFormats.mif
+SaveAs -d c:\mif\WarmUps_ClassFormats.mif c:\mif\WarmUps_ClassFormats.fm
+Close c:\mif\WarmUps_ClassFormats.fm
+OpenTextFile -a c:\mif\Waza_AcupuncturePoint.mif
+SaveAs -d c:\mif\Waza_AcupuncturePoint.mif c:\mif\Waza_AcupuncturePoint.fm
+Close c:\mif\Waza_AcupuncturePoint.fm
+OpenTextFile -a c:\mif\Waza_Advanced.mif
+SaveAs -d c:\mif\Waza_Advanced.mif c:\mif\Waza_Advanced.fm
+Close c:\mif\Waza_Advanced.fm
+OpenTextFile -a c:\mif\Waza_Animal.mif
+SaveAs -d c:\mif\Waza_Animal.mif c:\mif\Waza_Animal.fm
+Close c:\mif\Waza_Animal.fm
+OpenTextFile -a c:\mif\Waza_Basic.mif
+SaveAs -d c:\mif\Waza_Basic.mif c:\mif\Waza_Basic.fm
+Close c:\mif\Waza_Basic.fm
+OpenTextFile -a c:\mif\Waza_DimMak.mif
+SaveAs -d c:\mif\Waza_DimMak.mif c:\mif\Waza_DimMak.fm
+Close c:\mif\Waza_DimMak.fm
+OpenTextFile -a c:\mif\Waza_Filipino.mif
+SaveAs -d c:\mif\Waza_Filipino.mif c:\mif\Waza_Filipino.fm
+Close c:\mif\Waza_Filipino.fm
+OpenTextFile -a c:\mif\Waza_KnifeAndClub.mif
+SaveAs -d c:\mif\Waza_KnifeAndClub.mif c:\mif\Waza_KnifeAndClub.fm
+Close c:\mif\Waza_KnifeAndClub.fm
+OpenTextFile -a c:\mif\Waza_KumiteAndMatch.mif
+SaveAs -d c:\mif\Waza_KumiteAndMatch.mif c:\mif\Waza_KumiteAndMatch.fm
+Close c:\mif\Waza_KumiteAndMatch.fm
+OpenTextFile -a c:\mif\Waza_Miscellaneous.mif
+SaveAs -d c:\mif\Waza_Miscellaneous.mif c:\mif\Waza_Miscellaneous.fm
+Close c:\mif\Waza_Miscellaneous.fm
+OpenTextFile -a c:\mif\Waza_NaturalHands.mif
+SaveAs -d c:\mif\Waza_NaturalHands.mif c:\mif\Waza_NaturalHands.fm
+Close c:\mif\Waza_NaturalHands.fm
+OpenTextFile -a c:\mif\Waza_QiDisruption.mif
+SaveAs -d c:\mif\Waza_QiDisruption.mif c:\mif\Waza_QiDisruption.fm
+Close c:\mif\Waza_QiDisruption.fm
+OpenTextFile -a c:\mif\Waza_SelfDefense.mif
+SaveAs -d c:\mif\Waza_SelfDefense.mif c:\mif\Waza_SelfDefense.fm
+Close c:\mif\Waza_SelfDefense.fm
+OpenTextFile -a c:\mif\Waza_Shinai.mif
+SaveAs -d c:\mif\Waza_Shinai.mif c:\mif\Waza_Shinai.fm
+Close c:\mif\Waza_Shinai.fm
+OpenTextFile -a c:\mif\Waza_Special.mif
+SaveAs -d c:\mif\Waza_Special.mif c:\mif\Waza_Special.fm
+Close c:\mif\Waza_Special.fm
+OpenTextFile -a c:\mif\Waza_Takedown_and_Sweep.mif
+SaveAs -d c:\mif\Waza_Takedown_and_Sweep.mif c:\mif\Waza_Takedown_and_Sweep.fm
+Close c:\mif\Waza_Takedown_and_Sweep.fm

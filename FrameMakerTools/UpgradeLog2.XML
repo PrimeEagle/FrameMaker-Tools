@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FrameMakerTools">
+</Property><Property Name="Solution File" Value="d:\Docs\Visual Studio Projects\FrameMakerTools\FrameMakerTools.sln">
+</Property><Property Name="User Options File" Value="d:\Docs\Visual Studio Projects\FrameMakerTools\FrameMakerTools.suo">
+</Property><Property Name="Date" Value="Tuesday, January 29, 2008">
+</Property><Property Name="Time" Value="9:46 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FrameMakerTools.sln" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\FrameMakerTools.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FrameMakerTools.suo" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\FrameMakerTools.suo">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="FrameMakerTools.csproj" Description="Project file successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\FrameMakerTools.csproj">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="FrameMakerTools.csproj.user" Description="Project user file successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\FrameMakerTools.csproj.user">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="Arguments.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Arguments.cs">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="FMT.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\FMT.cs">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="Start.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Start.cs">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="App.ico" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="Config.xml" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Config.xml">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="FrameMakerTools.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FrameMakerTools" Source="FrameMakerTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj" Description="Project file successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Varan.FrameMaker\Varan.FrameMaker.csproj">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj.user" Description="Project user file successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Varan.FrameMaker\Varan.FrameMaker.csproj.user">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\AssemblyInfo.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Varan.FrameMaker\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\MIF.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Varan.FrameMaker\MIF.cs">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\MIFSettings.cs" Description="File successfully backed up as D:\Docs\Visual Studio Projects\FrameMakerTools_VS2003\Backup\Varan.FrameMaker\MIFSettings.cs">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FrameMakerTools.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FrameMakerTools.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FrameMakerTools" Source="FrameMakerTools.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Varan.FrameMaker" Source="..\Varan.API.FrameMaker\Varan.FrameMaker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

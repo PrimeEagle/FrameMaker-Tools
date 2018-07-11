@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SETTINGS>
+	<!-- TEMP_FOLDER cannot have spaces in it - will not work with dzbatcher -->
+	<TEMP_FOLDER>c:\mif</TEMP_FOLDER>
+	<COMMAND_FILE>command.fmb</COMMAND_FILE>
+	<DZBATCHER_PATH>c:\program files\dzbatcher\bin\dzbatcher.exe</DZBATCHER_PATH>
+	<MIF_SETTINGS>
+		<MARKERS_FROM_CHARACTER_TAGS>
+			<ITEM characterTag="AcupuncturePts" markerType="11" markerName="Acupoint" 
+					sublevelParaTag="Heading.1;Heading.1 Wide;Heading.2;Heading.3;Title.Kata;Title.KataAlternateVersion;Title.Exercise;Title.Defense;Title.Defense.AnimalWaza;Title.Defense.DimMakWaza;Title.Defense.FilipinoWaza;Title.Defense.Hapkido;Title.Defense.KneeHapkido;Title.Defense.KumiteWaza;Title.Defense.MatchWaza;Title.Defense.MiscellaneousHapkido;Title.Defense.MiscellaneousWaza;Title.Defense.NaturalHandsWaza;Title.Defense.QiDisruptionWaza;Title.Defense.Release;Title.Defense.ShinaiWaza;Title.Defense.TakedownAndSweepWaza;Title.Revival;Title.AcupunctureExample;Title.VideoNumbe;Title.Technique;Title.Meditation;Title.QigongFaSien;Title.QigongSet;Title.Drill;Caption.Table" 
+					boldParaTags="Title.AcupuncturePt" normalPageCharTag="IdxPageNum" boldPageCharTag="IdxPageNumBold" customSort="Acupoints"
+					includeParaNum="1">
+				<CROSSREF keyword="Yintang" see="Yindao" />
+				<CROSSREF keyword="GV-24A" see="Yindao" />
+				<CROSSREF keyword="HN-3" see="Yindao" />
+				<CROSSREF keyword="MEK" see="Miracle Eye Points of the Knee" />
+			</ITEM>
+		</MARKERS_FROM_CHARACTER_TAGS>
+		<MARKERS_FROM_PARAGRAPH_TAGS>
+			<ITEM paragraphTag="Video.Topic" markerType="12" markerName="VideoTopic" 
+					sublevelParaTag="Title.VideoNumber" 
+					boldParaTags="" normalPageCharTag="IdxPageNum" boldPageCharTag="IdxPageNumBold" customSort=""
+					includeParaNum="0">
+			</ITEM>
+		</MARKERS_FROM_PARAGRAPH_TAGS>
+		<IDX_KEYWORD_MARKERS markerType="11" markerName="Index" normalPageCharTag="IdxPageNum" boldPageCharTag="IdxPageNumBold"/>
+	</MIF_SETTINGS>
+</SETTINGS>
